@@ -141,3 +141,21 @@ All below music is licensed under [CC-BY 3.0](creativecommons.org/licenses/by/3.
 <tr><th>Author<td>Nhumo
 <tr><th>Source<td>https://www.youtube.com/watch?v=AxYttr9Qpk0
 </table>
+
+<table>
+<tr><th>Title<td>Finally Free
+<tr><th>Author<td>SmK & DJHarmonics
+<tr><th>Source<td>https://www.youtube.com/watch?v=I0hSsIFtdKY
+</table>
+  
+<table>
+<tr><th>Title<td>Let Go
+<tr><th>Author<td>SmK
+<tr><th>Source<td>https://www.youtube.com/watch?v=Ou8ylnnpurA
+</table>
+  
+<table>
+<tr><th>Title<td>Happiness Is Fantasy
+<tr><th>Author<td>SmK
+<tr><th>Source<td>https://www.youtube.com/watch?v=wMpaFMUtsgY
+</table>
